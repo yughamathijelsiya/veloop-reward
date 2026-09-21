@@ -1,0 +1,6 @@
+{
+  "name": "VELOOP Rewards",
+  "description": "Premium fintech-inspired gamified rewards dashboard with Level-Up progression, mini-games, and XP tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
